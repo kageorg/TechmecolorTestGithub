@@ -2,6 +2,8 @@
 
 Kim's mac and cheese
 cheese
+noodles
+milk
 butter
 salt
 pepper
@@ -9,3 +11,4 @@ love
 no pinapples
 
 Cook macaroni according to the package directions. 
+Shred massive amounts of cheese
