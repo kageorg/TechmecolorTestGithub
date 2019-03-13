@@ -9,3 +9,5 @@ salt
 pepper
 love
 no pinapples
+
+Cook macaroni according to the package directions. 
